@@ -6,9 +6,9 @@
   <Identity Name="3312ADB7.MoodleDesktop"
     ProcessorArchitecture="x64"
     Publisher="CN=33CDCDF6-1EB5-4827-9897-ED25C91A32F6"
-    Version="3.9.1.0" />
+    Version="0.0.1" />
   <Properties>
-    <DisplayName>Moodle Desktop</DisplayName>
+    <DisplayName>AVA Pós Graduação - UFMT</DisplayName>
     <PublisherDisplayName>Moodle Pty Ltd.</PublisherDisplayName>
     <Description>The official app for Moodle.</Description>
     <Logo>assets\StoreLogo.png</Logo>
@@ -23,10 +23,10 @@
     <rescap:Capability Name="runFullTrust"/>
   </Capabilities>
   <Applications>
-    <Application Id="com.moodle.moodlemobile" Executable="app\Moodle Desktop.exe" EntryPoint="Windows.FullTrustApplication">
+    <Application Id="br.ufmt.moodle" Executable="app\Moodle Desktop.exe" EntryPoint="Windows.FullTrustApplication">
       <uap:VisualElements
        BackgroundColor="#464646"
-       DisplayName="Moodle Desktop"
+       DisplayName="AVA Pós Graduação - UFMT"
        Square150x150Logo="assets\Square150x150Logo.png"
        Square44x44Logo="assets\Square44x44Logo.png"
        Description="Moodle Desktop: The official desktop app for Moodle.">
@@ -35,7 +35,7 @@
       <Extensions>
         <uap:Extension Category="windows.protocol">
           <uap:Protocol Name="moodlemobile">
-            <uap:DisplayName>Moodle Mobile URI Scheme</uap:DisplayName>
+            <uap:DisplayName>AVA Pós Graduação - UFMT</uap:DisplayName>
           </uap:Protocol>
         </uap:Extension>
       </Extensions>
