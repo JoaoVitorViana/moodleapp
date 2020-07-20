@@ -1,5 +1,5 @@
 {
-  "app_id": "br.ufmt.moodle",
+  "app_id": "br.ufmt.sti.moodle",
   "appname": "UFMT - AVA graduação",
   "desktopappname": "UFMT - AVA graduação",
   "versioncode": 2,
@@ -84,7 +84,7 @@
   "forceColorScheme": "",
   "ioswebviewscheme": "moodleappfs",
   "appstores": {
-    "android": "br.ufmt.moodle",
+    "android": "br.ufmt.sti.moodle",
     "ios": "br.ufmt.moodle",
     "windows": "moodle-desktop/9p9bwvhdc8c8",
     "mac": "id1255924440",

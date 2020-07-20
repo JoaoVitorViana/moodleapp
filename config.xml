@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget android-versionCode="2" id="br.ufmt.moodle" ios-CFBundleVersion="0.0.1" version="0.0.1" versionCode="2" xmlns="http://www.w3.org/ns/widgets" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget android-versionCode="2" id="br.ufmt.sti.moodle" ios-CFBundleVersion="0.0.1" version="0.0.1" versionCode="2" xmlns="http://www.w3.org/ns/widgets" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>UFMT - AVA graduação</name>
     <description>Aplicativo Ava Graduação da UFMT</description>
     <author email="ces@ufmt.br" href="https://www.ufmt.br/secretaria/sti">STI-UFMT</author>
@@ -49,7 +49,7 @@
         <param name="ios-package" onload="true" value="CDVStatusBar" />
     </feature>
     <platform name="android">
-        <resource-file src="MainActivity.java" target="app/src/main/java/br/ufmt/moodle/MainActivity.java" />
+        <resource-file src="MainActivity.java" target="app/src/main/java/br/ufmt/sti/moodle/MainActivity.java" />
         <resource-file src="google-services.json" target="app/google-services.json" />
         <resource-file src="resources/android/icon/drawable-ldpi-smallicon.png" target="app/src/main/res/mipmap-ldpi/smallicon.png" />
         <resource-file src="resources/android/icon/drawable-mdpi-smallicon.png" target="app/src/main/res/mipmap-mdpi/smallicon.png" />

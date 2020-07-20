@@ -129,7 +129,7 @@ fs.readFile(path.join(__dirname, 'config.json'), 'utf8', (err, data) => {
 
     // Default values.
     var ssoScheme = 'ufmtavagraduacao',
-        appId = 'br.ufmt.moodle';
+        appId = 'br.ufmt.sti.moodle';
 
     if (!err) {
         try {
