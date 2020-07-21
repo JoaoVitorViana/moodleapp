@@ -8,13 +8,13 @@
     Publisher="CN=33CDCDF6-1EB5-4827-9897-ED25C91A32F6"
     Version="0.0.1" />
   <Properties>
-    <DisplayName>AVA Pós Graduação - UFMT</DisplayName>
+    <DisplayName>UFMT - AVA graduação</DisplayName>
     <PublisherDisplayName>Moodle Pty Ltd.</PublisherDisplayName>
     <Description>The official app for Moodle.</Description>
     <Logo>assets\StoreLogo.png</Logo>
   </Properties>
   <Resources>
-    <Resource Language="en" />
+    <Resource Language="pt-br" />
   </Resources>
   <Dependencies>
     <TargetDeviceFamily Name="Windows.Desktop" MinVersion="10.0.14316.0" MaxVersionTested="10.0.14316.0" />
@@ -26,7 +26,7 @@
     <Application Id="br.ufmt.sti.moodle" Executable="app\Moodle Desktop.exe" EntryPoint="Windows.FullTrustApplication">
       <uap:VisualElements
        BackgroundColor="#464646"
-       DisplayName="AVA Pós Graduação - UFMT"
+       DisplayName="UFMT - AVA graduação"
        Square150x150Logo="assets\Square150x150Logo.png"
        Square44x44Logo="assets\Square44x44Logo.png"
        Description="Moodle Desktop: The official desktop app for Moodle.">
@@ -35,7 +35,7 @@
       <Extensions>
         <uap:Extension Category="windows.protocol">
           <uap:Protocol Name="moodlemobile">
-            <uap:DisplayName>AVA Pós Graduação - UFMT</uap:DisplayName>
+            <uap:DisplayName>UFMT - AVA graduação</uap:DisplayName>
           </uap:Protocol>
         </uap:Extension>
       </Extensions>
