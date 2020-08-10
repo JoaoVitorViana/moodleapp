@@ -229,8 +229,8 @@
   },
   "main": "desktop/electron.js",
   "build": {
-    "appId": "com.moodle.moodledesktop",
-    "productName": "Moodle Desktop",
+    "appId": "br.ufmt.sti.moodle",
+    "productName": "UFMT ",
     "files": [
       "desktop/electron.js",
       "www/**/*",

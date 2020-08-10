@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget android-versionCode="2" id="br.ufmt.sti.moodle" ios-CFBundleVersion="0.0.1" version="0.0.1" versionCode="2" xmlns="http://www.w3.org/ns/widgets" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget android-versionCode="4" id="br.ufmt.sti.moodle" ios-CFBundleVersion="0.0.2" version="0.0.2" versionCode="4" xmlns="http://www.w3.org/ns/widgets" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>UFMT - AVA graduação</name>
     <description>Aplicativo Ava Graduação da UFMT</description>
     <author email="ces@ufmt.br" href="https://www.ufmt.br/secretaria/sti">STI-UFMT</author>
